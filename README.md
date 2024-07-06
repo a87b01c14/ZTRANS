@@ -1,0 +1,2 @@
+# ZTRANS
+ABAP 文本翻译
