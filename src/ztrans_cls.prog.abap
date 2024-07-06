@@ -519,7 +519,7 @@ FORM alv_layout_init USING    p_edit    "####### ###뿩##
   ps_layout-no_rowins  = 'X'.
   ps_layout-no_rowmove = 'X'.
   ps_layout-smalltitle = 'X'.
-  ps_layout-frontend   = 'X'.        "ALV ###: #### #Ǵ# ũ###### #Ǵ# ALV
+*  ps_layout-frontend   = 'X'.        "ALV ###: #### #Ǵ# ũ###### #Ǵ# ALV
 
   IF p_edit = 'X'.
     ps_layout-stylefname = 'CELLTAB'.  "Input/Output ####
